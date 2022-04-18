@@ -1,0 +1,13 @@
+C:\C#\Projetos\SalárioFuncionários\SalárioFuncionários\obj\Debug\netcoreapp2.1\SalárioFuncionários.csproj.AssemblyReference.cache
+C:\C#\Projetos\SalárioFuncionários\SalárioFuncionários\obj\Debug\netcoreapp2.1\SalárioFuncionários.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Projetos\SalárioFuncionários\SalárioFuncionários\obj\Debug\netcoreapp2.1\SalárioFuncionários.AssemblyInfoInputs.cache
+C:\C#\Projetos\SalárioFuncionários\SalárioFuncionários\obj\Debug\netcoreapp2.1\SalárioFuncionários.AssemblyInfo.cs
+C:\C#\Projetos\SalárioFuncionários\SalárioFuncionários\obj\Debug\netcoreapp2.1\SalárioFuncionários.csproj.CoreCompileInputs.cache
+C:\C#\Projetos\SalárioFuncionários\SalárioFuncionários\bin\Debug\netcoreapp2.1\SalárioFuncionários.deps.json
+C:\C#\Projetos\SalárioFuncionários\SalárioFuncionários\bin\Debug\netcoreapp2.1\SalárioFuncionários.runtimeconfig.json
+C:\C#\Projetos\SalárioFuncionários\SalárioFuncionários\bin\Debug\netcoreapp2.1\SalárioFuncionários.runtimeconfig.dev.json
+C:\C#\Projetos\SalárioFuncionários\SalárioFuncionários\bin\Debug\netcoreapp2.1\SalárioFuncionários.dll
+C:\C#\Projetos\SalárioFuncionários\SalárioFuncionários\bin\Debug\netcoreapp2.1\SalárioFuncionários.pdb
+C:\C#\Projetos\SalárioFuncionários\SalárioFuncionários\obj\Debug\netcoreapp2.1\SalárioFuncionários.dll
+C:\C#\Projetos\SalárioFuncionários\SalárioFuncionários\obj\Debug\netcoreapp2.1\SalárioFuncionários.pdb
+C:\C#\Projetos\SalárioFuncionários\SalárioFuncionários\obj\Debug\netcoreapp2.1\SalárioFuncionários.genruntimeconfig.cache
